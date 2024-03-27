@@ -57,7 +57,3 @@ Website load may take some time, so please wait.
 
 
 
-## Database Seed
-
-* The seed command will put products in database
-* For more information, see code [here](Backend/utils/seeder.js)
